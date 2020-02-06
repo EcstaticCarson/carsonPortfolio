@@ -1,12 +1,9 @@
-
-
-// .heroMe{
-//     background-image: url('/assets/portfolioPic.jpg');
-//     background-size: cover;
-//     background-repeat: no-repeat;
-//     height: 100vh;
-// }
-// .imgFix{
-//     max-width: 100%;
-//     height: auto;
-// }
+#hero {
+    background-image: url('/assets/images/portfolioPic.jpg');
+    height: 100vh;
+    background-size: cover;
+}
+.imgFix{
+    max-width: 100%;
+    height: auto;
+}
