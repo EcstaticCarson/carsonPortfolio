@@ -3,7 +3,9 @@
     height: 100vh;
     background-size: cover;
 }
-.imgFix{
-    max-width: 100%;
-    height: auto;
+.words-center{
+    display: flex;
+    justify-content: center;
+    padding-top: 5rem;
+    color: black;
 }
