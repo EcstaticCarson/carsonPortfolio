@@ -1,12 +1,28 @@
 .color-choice{
-    color: #1C2739;
+    background-color:#1C2739;
+    color: white;
 }
 
 .fontGrowth{
-    font-size: 30px;
+    font-size: 24px;
+    line-break: auto;
+    padding-left: 5rem;
+    padding-right: 5rem;
 }
 
-.contact-color{
-    color: white;
-    text-underline-position: below;
+// .contact-color{
+//     color: white;
+//     text-underline-position: below;
+// }
+
+.spacing-title{
+    padding-top: 6rem;
+    padding-left: 10rem;
+    padding-bottom: 4rem;
+}
+
+.contact-space{
+    display: flex;
+    padding-top: 2rem;
+    padding-left: 9rem;
 }
