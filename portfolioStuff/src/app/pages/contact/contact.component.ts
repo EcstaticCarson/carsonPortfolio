@@ -11,5 +11,7 @@ export class ContactComponent implements OnInit {
 
   ngOnInit() {
   }
-
+  Submit() {
+    alert('Thank you! I will reach out to you when I\'m able to. :)');
+  }
 }
